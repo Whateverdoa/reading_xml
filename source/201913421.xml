@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreateJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <OrderId>201913421</OrderId>
+    <SubOrderId>Prepress</SubOrderId>
+    <OrderYear>2019</OrderYear>
+    <Name>201913421 Volvlak</Name>
+    <Description />
+    <DueDate>2019-03-15T00:00:00</DueDate>
+    <JobStatus>-</JobStatus>
+    <ProjectId>-</ProjectId>
+    <Category>-</Category>
+    <Proof>-</Proof>
+    <Dispenser>Nee</Dispenser>
+    <LabelDirection>0</LabelDirection>
+    <Adhesive />
+    <Size>100 x 70 mm</Size>
+    <JobFolder>-</JobFolder>
+    <JobType>Prepress</JobType>
+  </Job>
+  <Customer>
+    <CustomerId>104605</CustomerId>
+    <CustomerName>ETIKET NEDERLAND BV</CustomerName>
+    <CustomerDescription>M. ten Pierick</CustomerDescription>
+    <CustomerJobReference>I110846-7838</CustomerJobReference>
+    <JobHandler>pim</JobHandler>
+    <JobHandlerEmail>pim@vila.nl</JobHandlerEmail>
+  </Customer>
+  <Template>
+    <UseExistingTemplate>true</UseExistingTemplate>
+    <JobTemplate>Template_Job_001</JobTemplate>
+  </Template>
+  <Parameter>
+    <Radius>2</Radius>
+    <DieCut1_LabelsAcross>3</DieCut1_LabelsAcross>
+    <DieCut1_LabelsAlong>3</DieCut1_LabelsAlong>
+    <DieCut1_GutterAcross>3.00</DieCut1_GutterAcross>
+    <DieCut1_GutterAlong>3.00</DieCut1_GutterAlong>
+    <DieCut1_RepeatLength>438</DieCut1_RepeatLength>
+    <DieCut2_LabelsAcross>3</DieCut2_LabelsAcross>
+    <DieCut2_LabelsAlong>13</DieCut2_LabelsAlong>
+    <DieCut2_GutterAcross>3.00</DieCut2_GutterAcross>
+    <DieCut2_GutterAlong>3.00</DieCut2_GutterAlong>
+    <DieCut2_RepeatLength>949</DieCut2_RepeatLength>
+    <ProofsLogo>ProofsLogo</ProofsLogo>
+    <ProofsLanguage>NL</ProofsLanguage>
+    <LabelWidth>98</LabelWidth>
+    <LabelHeight>92</LabelHeight>
+    <WebWidth>103</WebWidth>
+    <JobQuantity>5000</JobQuantity>
+    <QuantityPerRoll />
+    <Substrate>4802 mat wit, afneembaar</Substrate>
+    <CustomerFirstLetter>E</CustomerFirstLetter>
+  </Parameter>
+  <EskoProducts>
+    <EskoProduct>
+      <ProductNo>460521009367</ProductNo>
+      <ProductName>Volvlak</ProductName>
+      <EskoDescription>460521009367_Volvlak</EskoDescription>
+      <CustomerName>ETIKET NEDERLAND BV</CustomerName>
+      <CustomerFirstLetter>E</CustomerFirstLetter>
+      <CustomerNo>104605</CustomerNo>
+      <CustomerProductReference>151206</CustomerProductReference>
+      <LabelWidth>100</LabelWidth>
+      <LabelHeight>70</LabelHeight>
+      <LabelSize>100x70</LabelSize>
+      <Department>Digitaal</Department>
+      <Description>Volvlak</Description>
+      <Shape>Rechthoek</Shape>
+      <LabelDirection>Rolwikkeling 2</LabelDirection>
+      <Colours>0</Colours>
+      <Status>Proefdruk goedgekeurd</Status>
+      <Core>76 mm</Core>
+      <Notes />
+    </EskoProduct>
+  </EskoProducts>
+</CreateJob>
